@@ -38,14 +38,14 @@ To add 🤖BubblesOnboardingBot🤖 to your Discord server, you'll need to follo
                     6. Customization (NONE):  none, sorry. 
   
 
-7.  **Bot Configuration:**
+7.  **🤖Bot Configuration:⚙️**
    - (a) Once the bot is added to your server, the developer may provide a configuration file (`config.json`) that you can customize to adjust settings such as the onboarding channel name and bot name.
    - (b) **`bot name`** and **`Channel_name`** have to stay same in order for the bot to work properly. `Thank You`😊
 
-8.  **Run the Bot:**
+8.  **🏃‍♂️Run the Bot:🤖**
    - (a) Once everything is set up, Contact The Developer To run the bot on your server and monitor its performance. If you encounter any issues or have further requests, communicate them to the developer for assistance.
 
-## Contributing
+## 🆘Contributing🆘
 
     Contributions to 🤖BubblesOnboardingBot🤖 are always welcome! If you have ideas for improvements, bug fixes, or new 
     features, feel free to contribute by forking the repository, making your changes, and submitting a pull request.
