@@ -7,10 +7,11 @@ BubblesOnboardingBot is a Discord bot designed to streamline the onboarding proc
 To add BubblesOnboardingBot to your Discord server, you'll need to follow these steps:
 
 1. **Bot Token:**
-   - (a) The developer of BubblesOnboardingBot will provide you with a bot token along with the invite link. This token allows the bot to authenticate with Discord's API and perform actions on your server.
+   - (a) The developer of BubblesOnboardingBot will `NOT` provide you with a bot token. This token allows the bot to authenticate with Discord's API and perform actions on your server.
+   - (b) `But` will give you the invite link. so you can invite the bot to your Discord Server. 
 
 2. **Invite Link:**
-   - (a) Once you have the bot token, the developer will provide you with an invite link for the bot. Use this link to invite the bot to your Discord server.
+   - (a) the developer will provide you with an invite link for the bot. Use this link to invite the bot to your Discord server.
 
 3. **Onboarding Channel:**
    - (a) Create a channel on your Discord server specifically for onboarding new members. This channel should be where the bot sends welcome messages and facilitates the onboarding process.
