@@ -15,7 +15,7 @@ To add BubblesOnboardingBot to your Discord server, you'll need to follow these 
 
 3. **Onboarding Channel:**
    - (a) Create a channel on your Discord server specifically for onboarding new members. This channel should be where the bot sends welcome messages and facilitates the onboarding process.
-   - (b) channel name should be called:  onboarding
+   - (b) **channel_name** should be called:  `onboarding`
 
 4. **Categories of Interest:**
    - (a) Decide on the categories of interest or roles that new members can select during the onboarding process. Provide this list to the developer so they can configure the bot accordingly.
