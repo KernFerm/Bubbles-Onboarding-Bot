@@ -7,42 +7,42 @@ BubblesOnboardingBot is a Discord bot designed to streamline the onboarding proc
 To add BubblesOnboardingBot to your Discord server, you'll need to follow these steps:
 
 1. **Bot Token:**
-   (a) The developer of BubblesOnboardingBot will provide you with a bot token along with the invite link. This token allows the bot to authenticate with Discord's API and perform actions on your server.
+   - (a) The developer of BubblesOnboardingBot will provide you with a bot token along with the invite link. This token allows the bot to authenticate with Discord's API and perform actions on your server.
 
 2. **Invite Link:**
-   (a) Once you have the bot token, the developer will provide you with an invite link for the bot. Use this link to invite the bot to your Discord server.
+   - (a) Once you have the bot token, the developer will provide you with an invite link for the bot. Use this link to invite the bot to your Discord server.
 
 3. **Onboarding Channel:**
-   (a) Create a channel on your Discord server specifically for onboarding new members. This channel should be where the bot sends welcome messages and facilitates the onboarding process.
-   (b) channel name should be called:  onboarding
+   - (a) Create a channel on your Discord server specifically for onboarding new members. This channel should be where the bot sends welcome messages and facilitates the onboarding process.
+   - (b) channel name should be called:  onboarding
 
 4. **Categories of Interest:**
-   (a) Decide on the categories of interest or roles that new members can select during the onboarding process. Provide this list to the developer so they can configure the bot accordingly.
+   - (a) Decide on the categories of interest or roles that new members can select during the onboarding process. Provide this list to the developer so they can configure the bot accordingly.
 
-   (b) PLEASE!!! MAKE SURE to copy and paste `your` server **channel roles exactly** how they are in `your` discord server. in `notepad` or `microsoft word`.
+   - (b) PLEASE!!! MAKE SURE to copy and paste `your` server **channel roles exactly** how they are in `your` discord server. in `notepad` or `microsoft word`.
 
                        Email Me The List -> kernferm@gmail.com
   
-   (c) Save the list as what ever the name of **YOUR** discord server , **YOUR** Server ID , **YOUR** Discord ID.
+   - (c) Save the list as what ever the name of **YOUR** discord server , **YOUR** Server ID , **YOUR** Discord ID.
   
 4.5 **How To Find Discord Server ID**
-   (a) Right-click on the server name in the server list on the left-hand side.
-   (b) Select "Copy ID" from the context menu that appears.
+   - (a) Right-click on the server name in the server list on the left-hand side.
+   - (b) Select "Copy ID" from the context menu that appears.
 
          
                     
     
-   (c) Click on your discord server name " example discord server " , click server settings , click roles , `READ` step (b) thanks
+   - (c) Click on your discord server name " example discord server " , click server settings , click roles , `READ` step (b) thanks
 
                     6. Customization (NONE):  none, sorry. 
   
 
 7. **Bot Configuration:**
-   (a) Once the bot is added to your server, the developer may provide a configuration file (`config.json`) that you can customize to adjust settings such as the onboarding channel name and bot name.
-   (b) Bot Name and Channel_Name have to stay same in order for the bot to work properly. Thank You
+   - (a) Once the bot is added to your server, the developer may provide a configuration file (`config.json`) that you can customize to adjust settings such as the onboarding channel name and bot name.
+   - (b) Bot Name and Channel_Name have to stay same in order for the bot to work properly. Thank You
 
 8. **Run the Bot:**
-   (a) Once everything is set up, run the bot on your server and monitor its performance. If you encounter any issues or have further requests, communicate them to the developer for assistance.
+   - (a) Once everything is set up, Contact The Developer To run the bot on your server and monitor its performance. If you encounter any issues or have further requests, communicate them to the developer for assistance.
 
 ## Contributing
 
