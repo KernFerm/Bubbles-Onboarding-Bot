@@ -38,8 +38,8 @@ To add BubblesOnboardingBot to your Discord server, you'll need to follow these 
 
 ## Contributing
 
-      Contributions to BubblesOnboardingBot are always welcome! If you have ideas for improvements, bug fixes, or new features, 
-      feel free to contribute by forking the repository, making your changes, and submitting a pull request.
+    Contributions to BubblesOnboardingBot are always welcome! If you have ideas for improvements, bug fixes, or new 
+    features, feel free to contribute by forking the repository, making your changes, and submitting a pull request.
 
 ## License
 
