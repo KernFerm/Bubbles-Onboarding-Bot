@@ -20,6 +20,12 @@ To add BubblesOnboardingBot to your Discord server, you'll need to follow these 
    - Decide on the categories of interest or roles that new members can select during the onboarding process. Provide this list to the developer so they can configure the bot accordingly.
 
    - PLEASE!!! MAKE SURE to copy and paste `your` server **channel names exactly** how they are in `your` discord server. in `notepad` or `microsoft word`.
+  
+   - Save the list as what ever the name of **YOUR** discord server , **YOUR** Server ID , **YOUR** Discord ID.
+  
+4.5 **How To Find Discord Server ID**
+   - Right-click on the server name in the server list on the left-hand side.
+   - Select "Copy ID" from the context menu that appears.
 
                           Email Me The List -> kernferm@gmail.com
                     
