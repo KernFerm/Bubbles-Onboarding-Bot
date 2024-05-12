@@ -6,18 +6,18 @@
 
 To add 🤖BubblesOnboardingBot🤖 to your Discord server, you'll need to follow these steps:
 
-1. **Bot Token:**
+1.  **Bot Token:**
    - (a) The developer of 🤖BubblesOnboardingBot🤖 will `NOT` provide you with a bot token. This token allows the bot to authenticate with Discord's API and perform actions on your server.
    - (b)   **`READ STEP 2 !!`**
 
-2. 🔗**Invite Link:**🔗
+2.  🔗**Invite Link:**🔗
    - (a) the developer will provide you with an invite link for the bot. Use this link to invite the bot to your Discord server.
 
-3. **Onboarding Channel:**
+3.  **Onboarding Channel:**
    - (a) Create a channel on your Discord server specifically for onboarding new members. This channel should be where the bot sends welcome messages and facilitates the onboarding process.
    - (b) **channel_name** should be called:  `onboarding`
 
-4. **Categories of Interest:**
+4.  **Categories of Interest:**
    - (a) Decide on the categories of interest or roles that new members can select during the onboarding process. Provide this list to the developer so they can configure the bot accordingly.
 
    - (b) PLEASE!!! MAKE SURE to copy and paste `your` server **channel roles exactly** how they are in `your` discord server. in 🗒️**notepad**🗒️ or 🗒️**microsoft word**🗒️.
@@ -38,11 +38,11 @@ To add 🤖BubblesOnboardingBot🤖 to your Discord server, you'll need to follo
                     6. Customization (NONE):  none, sorry. 
   
 
-7. **Bot Configuration:**
+7.  **Bot Configuration:**
    - (a) Once the bot is added to your server, the developer may provide a configuration file (`config.json`) that you can customize to adjust settings such as the onboarding channel name and bot name.
    - (b) **`bot name`** and **`Channel_name`** have to stay same in order for the bot to work properly. `Thank You`😊
 
-8. **Run the Bot:**
+8.  **Run the Bot:**
    - (a) Once everything is set up, Contact The Developer To run the bot on your server and monitor its performance. If you encounter any issues or have further requests, communicate them to the developer for assistance.
 
 ## Contributing
