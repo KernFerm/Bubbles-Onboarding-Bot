@@ -23,8 +23,8 @@ To add BubblesOnboardingBot to your Discord server, you'll need to follow these 
 - Email Me The List:  `kernferm@gmail.com`
    - Click on your discord server name " example discord server " , click server settings , click roles , `READ` step 2. thanks
 
-6. **Customization (Optional):**
-   - If you have specific requirements or customization requests, communicate them to the developer so they can tailor the bot to fit your server's needs.
+6. **Customization (NONE ALLOWED):**
+ - none, sorry. 
 
 7. **Bot Configuration:**
    - Once the bot is added to your server, the developer may provide a configuration file (`config.json`) that you can customize to adjust settings such as the onboarding channel name and bot name.
