@@ -26,7 +26,7 @@ To add 🤖BubblesOnboardingBot🤖 to your Discord server, you'll need to follo
   
    - (c) Save the list as what ever the name of **YOUR** discord server , **YOUR** Server ID , **YOUR** Discord ID.
   
-4.5 **How To Find Discord Server ID**
+4.5 **How To Find Discord Server ID**🆔
    - (a) Right-click on the server name in the server list on the left-hand side.
    - (b) Select "Copy ID" from the context menu that appears.
 
