@@ -21,12 +21,12 @@ To add BubblesOnboardingBot to your Discord server, you'll need to follow these 
 
    - PLEASE!!! MAKE SURE to copy and paste `your` server channel names exactly how they are in `your` discord server. in `notepad` or `microsoft word`.
 
-                                                    Email Me The List -> kernferm@gmail.com
+                          Email Me The List -> kernferm@gmail.com
                     
     
    - Click on your discord server name " example discord server " , click server settings , click roles , `READ` step 2. thanks
 
-6. **Customization (NONE ALLOWED):**
+6. **Customization (NONE):**
  - none, sorry. 
 
 7. **Bot Configuration:**
@@ -34,11 +34,11 @@ To add BubblesOnboardingBot to your Discord server, you'll need to follow these 
    - Bot Name and Channel_Name have to stay same in order for the bot to work properly. Thank You
 
 8. **Run the Bot:**
-   - Once everything is set up, run the bot on your server and monitor its performance. If you encounter any issues or have further requests, communicate them to the developer for assistance.
+   -              Once everything is set up, run the bot on your server and monitor its performance. If you encounter any issues or have further requests, communicate them to the developer for assistance.
 
 ## Contributing
 
-Contributions to BubblesOnboardingBot are always welcome! If you have ideas for improvements, bug fixes, or new features, feel free to contribute by forking the repository, making your changes, and submitting a pull request.
+             Contributions to BubblesOnboardingBot are always welcome! If you have ideas for improvements, bug fixes, or new features, feel free to contribute by forking the repository, making your changes, and submitting a pull request.
 
 ## License
 
