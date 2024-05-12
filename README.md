@@ -1,13 +1,13 @@
-# BubblesOnboardingBot
+# 🤖BubblesOnboardingBot🤖
 
 BubblesOnboardingBot is a Discord bot designed to streamline the onboarding process for new members joining your server. By guiding new members through selecting their interests and preferences, it helps integrate them into your community more smoothly.
 
-## Adding BubblesOnboardingBot to Your Server
+## Adding 🤖BubblesOnboardingBot🤖 to Your Server
 
-To add BubblesOnboardingBot to your Discord server, you'll need to follow these steps:
+To add 🤖BubblesOnboardingBot🤖 to your Discord server, you'll need to follow these steps:
 
 1. **Bot Token:**
-   - (a) The developer of BubblesOnboardingBot will `NOT` provide you with a bot token. This token allows the bot to authenticate with Discord's API and perform actions on your server.
+   - (a) The developer of 🤖BubblesOnboardingBot🤖 will `NOT` provide you with a bot token. This token allows the bot to authenticate with Discord's API and perform actions on your server.
    - (b)   **`READ STEP 2 !!`**
 
 2. **Invite Link:**
@@ -22,7 +22,7 @@ To add BubblesOnboardingBot to your Discord server, you'll need to follow these 
 
    - (b) PLEASE!!! MAKE SURE to copy and paste `your` server **channel roles exactly** how they are in `your` discord server. in `notepad` or `microsoft word`.
 
-                       Email Me The List -> kernferm@gmail.com
+                    📧  Email Me The List -> kernferm@gmail.com
   
    - (c) Save the list as what ever the name of **YOUR** discord server , **YOUR** Server ID , **YOUR** Discord ID.
   
@@ -40,14 +40,14 @@ To add BubblesOnboardingBot to your Discord server, you'll need to follow these 
 
 7. **Bot Configuration:**
    - (a) Once the bot is added to your server, the developer may provide a configuration file (`config.json`) that you can customize to adjust settings such as the onboarding channel name and bot name.
-   - (b) **`bot name`** and **`Channel_name`** have to stay same in order for the bot to work properly. Thank You
+   - (b) **`bot name`** and **`Channel_name`** have to stay same in order for the bot to work properly. `Thank You`😊
 
 8. **Run the Bot:**
    - (a) Once everything is set up, Contact The Developer To run the bot on your server and monitor its performance. If you encounter any issues or have further requests, communicate them to the developer for assistance.
 
 ## Contributing
 
-    Contributions to BubblesOnboardingBot are always welcome! If you have ideas for improvements, bug fixes, or new 
+    Contributions to 🤖BubblesOnboardingBot🤖 are always welcome! If you have ideas for improvements, bug fixes, or new 
     features, feel free to contribute by forking the repository, making your changes, and submitting a pull request.
 
 ## License
