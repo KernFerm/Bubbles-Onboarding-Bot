@@ -19,7 +19,7 @@ To add BubblesOnboardingBot to your Discord server, you'll need to follow these 
 4. **Categories of Interest:**
    - Decide on the categories of interest or roles that new members can select during the onboarding process. Provide this list to the developer so they can configure the bot accordingly.
    - PLEASE!!! MAKE SURE to copy and paste `your` server channel names exactly how they are in `your` discord server.
-   - Click on your discord server name " example discor server " , click server settings , click roles , `READ` step 2. thanks
+   - Click on your discord server name " example discord server " , click server settings , click roles , `READ` step 2. thanks
 
 5. **Customization (Optional):**
    - If you have specific requirements or customization requests, communicate them to the developer so they can tailor the bot to fit your server's needs.
