@@ -1,4 +1,4 @@
-# 🤖BubblesOnboardingBot🤖
+# 🤖BubblesOnboardingBot🤖  For Discord Server
 
 🤖BubblesOnboardingBot🤖 is a Discord bot designed to streamline the onboarding process for new members joining your server. By guiding new members through selecting their interests and preferences, it helps integrate them into your community more smoothly.
 
