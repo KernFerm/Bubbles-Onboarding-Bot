@@ -23,8 +23,7 @@ To add 🤖BubblesOnboardingBot🤖 to your Discord server, you'll need to follo
    - (b) **PLEASE!!! MAKE SURE** to copy and paste `your` server **channel roles exactly** how they are in `your` discord server. in 🗒️**notepad**🗒️ or 🗒️**microsoft word**🗒️.
 
  ### Contact
-     Bubbles The Dev
-   📧 The List -> kernferm@gmail.com
+   Bubbles The Dev 📧 The List -> kernferm@gmail.com
   
    - (c) Save the list as what ever the name of **YOUR** discord server , **YOUR** Server ID , **YOUR** Discord ID.
   
