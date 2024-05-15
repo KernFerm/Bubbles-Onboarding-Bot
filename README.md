@@ -27,14 +27,11 @@ To add 🤖BubblesOnboardingBot🤖 to your Discord server, you'll need to follo
   
    - (c) Save the list as what ever the name of **YOUR** discord server , **YOUR** Server ID , **YOUR** Discord ID.
   
-4.5 🆔**How To Find Discord Server ID**🆔
+### 🆔**How To Find Discord Server ID**🆔
    - (a) Right-click on the server name in the server list on the left-hand side.
    - (b) Select "Copy ID" from the context menu that appears.
-
-         
-                    
-    
    - (c) Click on your discord server name " example discord server " , click server settings , click roles , `READ` step (b) thanks
+   - (d) I use this for the bot so it knows what server to work in. this is very crucial part for the bot to work porperly in your server
 
                     6. Customization (NONE):  none, sorry. 
   
