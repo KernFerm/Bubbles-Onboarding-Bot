@@ -16,7 +16,7 @@ Use this section to inform users how to report a vulnerability. Provide clear in
 
 #### Steps to Report
 
-1. **Contact Information**: Report vulnerabilities via email to [kernferm@gmail.com].
+1. **Contact Information**: Report vulnerabilities via email to [Email The Developer](kernferm@gmail.com).
 2. **Details to Include**:
    - Description of the vulnerability.
    - Steps to reproduce the issue.
